@@ -8,7 +8,7 @@ Analyse Sales of different Coffee types from given data and give insights for Sa
 
 ## Insights
 
-- ``**Excelsa**`` remains almost constant in sales & has done better sales overall than other coffee types.
+- **``Excelsa``** remains almost constant in sales & has done better sales overall than other coffee types.
 - ``Arabica in Sep 2021`` & ``Liberica in Jan 2022`` have the value of maximum sales in a month.
 - ``United States`` is the country with maximum sales.
 - ``Allis Wilmore`` & ``Brenn Dundredge`` are the most valuable customers.
