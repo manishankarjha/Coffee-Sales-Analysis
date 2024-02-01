@@ -20,8 +20,8 @@ Analyse Sales of different Coffee types from given data and give insights for Sa
 
 - Utilized XLOOKUP to extract data from ``customers`` table
 - Utilized INDEX MATCH to extract (all fields values at once) from ``products`` table
-- Made Custom slicers for our data
-- Customized timeline to give it a purple view
+- Made **``Custom slicers``** for our data
+- **``Customized timeline``** to give it a purple view
 
 
 ![Coffee sales Dashboard](https://github.com/manishankarjha/Coffee-Sales-Analysis/blob/main/Coffee%20Sales%20Dashboard.png)
